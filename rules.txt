@@ -25,3 +25,4 @@ blog.csdn.net##IMG[src="https://csdnimg.cn/release/blogv2/dist/pc/img/btnGuideSi
 @@||cpu-monkey.com/*^$document
 @@||v2ex.com/*^$document
 @@||cloud.189.cn/*^$document
+@@||mail.163.com/*^$document
