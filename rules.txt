@@ -1,5 +1,3 @@
-[Adblock Plus 2.0]
-
 @@||juejin.cn/*^$document
 @@||gitee.com/*^$document
 @@||lingyue-digital.com/$document
