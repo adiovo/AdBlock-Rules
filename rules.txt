@@ -1,8 +1,8 @@
 [Adblock]
 ! Title: DRules
-! Version: 20231116
-! Expires: 1 day
-! Homepage: https://github.com/dosicker/AdBlock-Rules
+! Version: 20231217
+! Expires: 7 day
+! Homepage: https://gitee.com/dosicker/AdBlock-Rules
 
 @@||juejin.cn/*^$document
 @@||gitee.com/*^$document
@@ -26,3 +26,10 @@ blog.csdn.net##IMG[src="https://csdnimg.cn/release/blogv2/dist/pc/img/btnGuideSi
 @@||v2ex.com/*^$document
 @@||cloud.189.cn/*^$document
 @@||mail.163.com/*^$document
+@@||lbs.qq.com/*^$document
+@@||cn.moyens.net/*^$document
+@@||did-sso-new.bba-app.biz/*^$document
+@@||cnblogs.com/*^$document
+@@||digit77.com/*^$document
+@@||mounty.app/*^$document
+@@||pcmacstore.com/*^$document
