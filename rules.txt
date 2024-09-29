@@ -1,8 +1,8 @@
 [Adblock]
 ! Title: DRules
-! Version: 20240927
+! Version: 20240929
 ! Expires: 7 day
-! Homepage: https://gitee.com/dosicker/AdBlock-Rules
+! Homepage: https://github.com/dosicker/AdBlock-Rules
 
 @@||juejin.cn/*^$document
 @@||gitee.com/*^$document
@@ -100,3 +100,9 @@
 @@||emojipedia.org/*^$document
 @@||br0wsers.com/*^$document
 @@||tools.fun/*^$document
+
+@@||market.ctyun.cn/*^$document
+@@||reddit.com/*^$document
+@@||mediafire.com/*^$document
+@@||capcut.cn/*^$document
+@@||sms-activate.io/*^$document
