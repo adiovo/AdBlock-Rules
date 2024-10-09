@@ -1,7 +1,7 @@
 [Adblock]
 ! Title: DRules-uBlock-Origin
-! Version: 20240929
-! Expires: 7 day
+! Version: 20241010
+! Expires: 24 hour
 ! Homepage: https://github.com/dosicker/AdBlock-Rules
 
 @@||juejin.cn^
@@ -106,3 +106,5 @@
 @@||mediafire.com^
 @@||capcut.cn^
 @@||sms-activate.io^
+
+@@||layui.dev^
