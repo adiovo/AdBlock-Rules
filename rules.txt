@@ -109,3 +109,9 @@
 
 @@||layui.dev/*^$document
 @@||52pojie.cn/*^$document
+
+@@||tailwind.nodejs.cn/*^$document
+@@||tailwindcss.com/*^$document
+@@||blog.uso6.com/*^$document
+@@||crx4chrome.com/*^$document
+@@||to-do.live.com/*^$document
