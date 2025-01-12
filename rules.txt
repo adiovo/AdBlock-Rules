@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: DRules
-! Version: 20241220
+! Version: 20250112
 ! Expires: 24 hour
 ! Homepage: https://github.com/dosicker/AdBlock-Rules
 
@@ -123,3 +123,9 @@
 @@||tieba.baidu.com/*^$document
 @@||duckduckgo.com/*^$document
 @@||apkpure.net/*^$document
+
+@@||unilinkletting.co.uk/*^$document
+@@||tailwindcss.cn/*^$document
+@@||jsdoc.nodejs.cn/*^$document
+@@||linux.do/*^$document
+@@||cloud.tencent.com/*^$document
