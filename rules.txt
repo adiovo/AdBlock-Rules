@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: DRules
-! Version: 20250112
+! Version: 20250304
 ! Expires: 24 hour
-! Homepage: https://github.com/dosicker/AdBlock-Rules
+! Homepage: https://raw.githubusercontent.com/dosicker/AdBlock-Rules/main/rules.txt
 
 @@||juejin.cn/*^$document
 @@||gitee.com/*^$document
@@ -110,7 +110,7 @@
 @@||layui.dev/*^$document
 @@||52pojie.cn/*^$document
 
-@@||tailwind.nodejs.cn/*^$document
+@@||*.nodejs.cn/*^$document
 @@||tailwindcss.com/*^$document
 @@||blog.uso6.com/*^$document
 @@||crx4chrome.com/*^$document
@@ -126,6 +126,10 @@
 
 @@||unilinkletting.co.uk/*^$document
 @@||tailwindcss.cn/*^$document
-@@||jsdoc.nodejs.cn/*^$document
 @@||linux.do/*^$document
 @@||cloud.tencent.com/*^$document
+
+@@||staringos.com/*^$document
+@@||google-fonts.nuxtjs.org/*^$document
+@@||yizushuo.com/*^$document
+@@||imgse.com/*^$document
