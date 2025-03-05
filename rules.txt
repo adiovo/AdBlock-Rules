@@ -127,8 +127,8 @@
 @@||unilinkletting.co.uk/*^$document
 @@||tailwindcss.cn/*^$document
 @@||linux.do/*^$document
-@@||cloud.tencent.com/*^$document
-
+@@||tencent.com/*^$document
+@@||tencent.com.cn/*^$document
 @@||staringos.com/*^$document
 @@||google-fonts.nuxtjs.org/*^$document
 @@||yizushuo.com/*^$document
