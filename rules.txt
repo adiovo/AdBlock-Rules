@@ -13,7 +13,6 @@
 @@||localhost:*^$document
 @@||mujicv.com/*^$document
 @@||cn.jugomobile.com^$document
-@@||bbs.hupu.com/*^$document
 @@||skylinewebcams.com/*^$document
 @@||redian.news^$document
 @@||nfpeople.com/*^$document
@@ -152,3 +151,5 @@
 @@||xiaoxintv.cc/*^$document
 @@||workona.com/*^$document
 @@||douban.com/*^$document
+@@||hupu.com/*^$document
+@@||pnpm.io/*^$document
