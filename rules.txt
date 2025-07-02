@@ -147,7 +147,7 @@
 
 @@||cityline.com/*^$document
 @@||antdv.com/*^$document
-@@||open.spotify.com/*^$document
+@@||spotify.com/*^$document
 @@||xiaoxintv.cc/*^$document
 @@||workona.com/*^$document
 @@||douban.com/*^$document
