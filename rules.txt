@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Title: DRules
+! Title: AdiRules
 ! Version: 20250614
 ! Expires: 24 hour
-! Homepage: https://raw.githubusercontent.com/dosicker/AdBlock-Rules/main/rules.txt
+! Homepage: https://raw.githubusercontent.com/adiovo/AdBlock-Rules/main/rules.txt
 
 @@||juejin.cn/*^$document
 @@||gitee.com/*^$document
@@ -17,7 +17,6 @@
 @@||redian.news^$document
 @@||nfpeople.com/*^$document
 @@||jenkins.io/*^$document
-
 @@||docs.qq.com/*^$document
 @@||cpu-monkey.com/*^$document
 @@||v2ex.com/*^$document
@@ -71,7 +70,6 @@
 @@||jsrun.net/*^$document
 @@||ahhhhfs.com/*^$document
 @@||huya.com/*^$document
-
 @@||aliyundrive.com/*^$document
 @@||ytshorts.savetube.me/*^$document
 @@||addyoutube.com/*^$document
@@ -87,7 +85,6 @@
 @@||xdaforums.com/*^$document
 @@||chatgpt.com/*^$document
 @@||metroopinion.com/*^$document
-
 @@||zto.com/*^$document
 @@||kkwnhub.com/*^$document
 @@||iamsee.top/*^$document
@@ -98,22 +95,18 @@
 @@||emojipedia.org/*^$document
 @@||br0wsers.com/*^$document
 @@||tools.fun/*^$document
-
 @@||market.ctyun.cn/*^$document
 @@||reddit.com/*^$document
 @@||mediafire.com/*^$document
 @@||capcut.cn/*^$document
 @@||sms-activate.io/*^$document
-
 @@||layui.dev/*^$document
 @@||52pojie.cn/*^$document
-
 @@||*.nodejs.cn/*^$document
 @@||tailwindcss.com/*^$document
 @@||blog.uso6.com/*^$document
 @@||crx4chrome.com/*^$document
 @@||to-do.live.com/*^$document
-
 @@||p.vueadminwork.com/*^$document
 @@||codebeautify.org/*^$document
 @@||vue3-antdv-admin.pages.dev/*^$document
@@ -121,30 +114,25 @@
 @@||tieba.baidu.com/*^$document
 @@||duckduckgo.com/*^$document
 @@||apkpure.net/*^$document
-
 @@||unilinkletting.co.uk/*^$document
 @@||tailwindcss.cn/*^$document
 @@||linux.do/*^$document
 @@||tencent.com/*^$document
 @@||tencent.com.cn/*^$document
-
 @@||staringos.com/*^$document
 @@||google-fonts.nuxtjs.org/*^$document
 @@||yizushuo.com/*^$document
 @@||imgse.com/*^$document
-
 @@||wechaty.js.org/*^$document
 @@||sms-man.com/*^$document
 @@||line.en.softonic.com^$document
 @@||toalan.com/*^$document
 @@||llg01.com/*^$document
 @@||youtube.com/*^$document
-
 @@||flzt.top/*^$document
 @@||1o.riolu.sbs/*^$document
 @@||dash.cloudflare.com/*^$document
 @@||meituan.com/*^$document
-
 @@||cityline.com/*^$document
 @@||antdv.com/*^$document
 @@||spotify.com/*^$document
@@ -156,3 +144,8 @@
 
 @@||innei.in/*^$document
 @@||jetbrains.com/*^$document
+
+@@||filehippo.com/*^$document
+@@||x.com^$document
+@@||spaceship.com^$document
+@@||youwaf.com^$document
