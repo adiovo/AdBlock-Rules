@@ -41,7 +41,7 @@
 @@||liaoxuefeng.com/*^$document
 @@||ithome.com/*^$document
 @@||douyin.com/*^$document
-@@||registry.npmmirror.com/*^$document
+@@||npmmirror.com/*^$document
 @@||aliyun.com/*^$document
 @@||microsoft.com/*^$document
 @@||svgtopng.com/*^$document
@@ -149,3 +149,4 @@
 @@||x.com^$document
 @@||spaceship.com^$document
 @@||youwaf.com^$document
+@@||clairechang.tw/*^$document
