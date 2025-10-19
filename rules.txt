@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdiRules
-! Version: 20250827
+! Version: 20251019
 ! Expires: 24 hour
 ! Homepage: https://cdn.jsdelivr.net/gh/adiovo/AdBlock-Rules/rules.txt(https://raw.githubusercontent.com/adiovo/AdBlock-Rules/main/rules.txt)
 
@@ -141,13 +141,14 @@
 @@||douban.com/*^$document
 @@||hupu.com/*^$document
 @@||pnpm.io/*^$document
-
 @@||innei.in/*^$document
 @@||jetbrains.com/*^$document
-
 @@||filehippo.com/*^$document
 @@||x.com^$document
 @@||spaceship.com^$document
 @@||youwaf.com^$document
 @@||clairechang.tw/*^$document
 @@||blog.csdn.net^$document
+
+@@||bitbucket.org/*^$document
+@@||atlassian.com/*^$document
